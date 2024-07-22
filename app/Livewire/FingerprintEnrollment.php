@@ -1,10 +1,10 @@
 <?php
-
-namespace App\Livewire;
+// app/Http/Livewire/FingerprintEnrollment.php
+namespace App\Http\Livewire;
 
 use Livewire\Component;
 
-class FingerprintScanner extends Component
+class FingerprintEnrollment extends Component
 {
     public $fingerprint;
 
